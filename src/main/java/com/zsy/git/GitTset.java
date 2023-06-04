@@ -10,5 +10,6 @@ public class GitTset {
         System.out.println("hot-fix");
         System.out.println("push-fix");
         System.out.println("pull-fix");
+        System.out.println("gitee test");
     }
 }
