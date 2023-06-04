@@ -11,5 +11,6 @@ public class GitTset {
         System.out.println("push-fix");
         System.out.println("pull-fix");
         System.out.println("gitee test");
+        System.out.println("gitee test1");
     }
 }
